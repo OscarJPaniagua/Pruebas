@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>C0C0C0</corfondo>
+        <corbanda>C0C0C0</corbanda>
+        <cornavega>808040</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Misioneros del Libro de Mormón</titulo>
+        <informe>1</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Bien!!!!</correcto>
+        <incorrecto son="" modo="1" >Vuelve a intentarlo !!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <cabeceira>Inicio</cabeceira>
+              <imaxe>Portada.JPG</imaxe>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Bahnschrift Light" size="32"><b>Actividades - </b><br>
+<b>Misioneros del Libro de Mormón</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>14</tipo>
+              <cabeceira>Empareja al Misionero con el Lugar de su Misión</cabeceira>
+              <peza imaxe="Aguas_de_Mormon.JPG" texto="Aguas de Mormon" son="">Alma.JPG</peza>
+              <peza imaxe="Guerras_Lamanitas_y_Banda_de_Gadianton.jpg" texto="Guerras Lamanitas y Banda Gadianton" son="">Helaman_hijo_de_Helaman.JPG</peza>
+              <peza imaxe="Zarahemla_inicua.jpg" texto="Nefitas en Zarahemla" son="">Samuel.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>19</tipo>
+              <cabeceira>Ahorcado , completa la frase</cabeceira>
+              <imaxe>Ammon.jpg</imaxe>
+              <texto><![CDATA[Alma 23: 6 Y tan cierto como vive el Señor, que cuantos creyeron, o sea, cuantos llegaron al conocimiento de la verdad por la predicación de Ammón y sus hermanos, según el espíritu de revelación y de profecía, y el poder de Dios que obraba milagros en ellos, sí, os digo, que así como vive el Señor, cuantos lamanitas creyeron en su predicación y fueron aconvertidos al Señor, bnunca más se desviaron.]]></texto>
+              <resp texto="">convertidos al Señor</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>4</tipo>
+              <cabeceira>Sopa de Letras, colorea desde la primera hasta la ultima letra de cada Nombre</cabeceira>
+              <modo>2</modo>
+              <sopa enun="Ammon.jpg">Ammon</sopa>
+              <sopa enun="Samuel.jpg">Samuel</sopa>
+              <sopa enun="Alma_y_Amulek.JPG">Alma/Amulek</sopa>
+              <sopa enun="Mormon.jpg">Mormón</sopa>
+              <sopa enun="Abinadi.jpg">Abinadi</sopa>
+              <sopa enun="Rey_Moshia_Joven.jpg">Moshia</sopa>
+              <sopa enun="OMNER__Y_HIMNI.jpg">Omner/Himni</sopa>
+              <sopa enun="Helaman_hijo_de_Helaman.JPG">Helamán</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="5" >
+              <tipo>18</tipo>
+              <cabeceira>Completa la Escritura</cabeceira>
+              <modo>3</modo>
+              <completa ant="Alma 17 ... Y sucedió que" post="los visitó ">El Señor</completa>
+              <completa ant="con su Espíritu," post=": Sed consolados;">y les dijo</completa>
+              <completa ant="y fueron consolados." post="también el Señor:">Y les dijo</completa>
+              <completa ant="Id entre los lamanitas," post="y estableced mi palabra;">vuestros hermanos</completa>
+              <completa ant="empero seréis " post="en las congojas y aflicciones">pacientes</completa>
+              <completa ant="para que les deis buenos" post="; y os haré instrumentos en mis manos, para la salvación de muchas almas.">ejemplos en mí</completa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>39</tipo>
+              <cabeceira>Misionero y su Mision</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="Rey_Noe.jpg" texto="El Rey Noe">Abinadi.jpg</parellas>
+              <parellas imaxe="Zarahemla_inicua.jpg" texto="Una Zarahemla inicua">Samuel.jpg</parellas>
+              <parellas imaxe="Guerras_Lamanitas_y_Banda_de_Gadianton.jpg" texto="Bandas de Gadianton y Guerras Lamanitas">Helaman_hijo_de_Helaman.JPG</parellas>
+              <parellas imaxe="Discurso_del_Rey_Benjamin.jpg" texto="Llama al pueblo a congregarse">Rey_Moshia_Joven.jpg</parellas>
+              <parellas imaxe="Zoramites_y_Rameumptom.JPG" texto="Zoramitas y Rameumptom">Amm_on_Aaron_Omner_Alma.JPG</parellas>
+              <parellas imaxe="Ciudad_de_Ammon_iah.jpg" texto="Ciudad de Ammoníah  ">Alma_y_Amulek.JPG</parellas>
+              <cfondo>C8DFE8</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>120</tempo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>20</tipo>
+              <cabeceira>Ordena el nombre de las Lecciones Misionales</cabeceira>
+              <imaxe>Predicad_mi_Evangelio.JPG</imaxe>
+              <modo>9</modo>
+              <etiqueta posx="400" posy="10">El mensaje de la restauración del evangelio de Jesucristo</etiqueta>
+              <etiqueta posx="400" posy="40">El Plan de Salvación</etiqueta>
+              <etiqueta posx="400" posy="90">El evangelio de Jesucristo</etiqueta>
+              <etiqueta posx="400" posy="130">Los mandamientos</etiqueta>
+              <etiqueta posx="400" posy="170">Las leyes y ordenanzas</etiqueta>
+        </paxina>
+        <paxina id="8" >
+              <tipo>4</tipo>
+              <cabeceira>Sopa de Letras, colorea desde la primera hasta la ultima letra de cada Capitulo donde narra la Mision</cabeceira>
+              <modo>2</modo>
+              <sopa enun="Rey_Lamoni_y_su_esposa.JPG">Alma17</sopa>
+              <sopa enun="Guerras_Lamanitas_y_Banda_de_Gadianton.jpg">Helamán6</sopa>
+              <sopa enun="Samuel.jpg">Helamán13</sopa>
+              <sopa enun="Zoramites_y_Rameumptom.JPG">Alma31</sopa>
+              <sopa enun="Aguas_de_Mormon.JPG">Moshía18</sopa>
+              <sopa enun="OMNER__Y_HIMNI.jpg">Moshía27</sopa>
+              <sopa enun="Discurso_del_Rey_Benjamin.jpg">Moshía3</sopa>
+              <sopa enun="Nefitas_inicuos.jpg">Mormón3</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="9" >
+              <tipo>19</tipo>
+              <cabeceira>Ahorcado , completa la frase</cabeceira>
+              <imaxe>Ammon.jpg</imaxe>
+              <texto><![CDATA[Helamán 3:28 Sí, así vemos que la apuerta del cielo está abierta para todos, sí, para todos los que quieran creer en el nombre de Jesucristo, que es el Hijo de Dios.
+
+29 Sí, vemos que todo aquel que quiera, puede asirse a la apalabra de Dios, que es bviva y poderosa, que partirá por medio toda la astucia, los lazos y las artimañas del diablo, y guiará al hombre de Cristo por un camino estrecho y cangosto, a través de ese eterno dabismo de miseria que se ha dispuesto para hundir a los inicuos,
+
+30 y depositará su alma, sí, su alma inmortal, a la adiestra de Dios en el reino de los cielos, para sentarse con Abraham, con Isaac, y con Jacob, y con todos nuestros santos padres, para no salir más.]]></texto>
+              <resp texto="">la apuerta del cielo</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>3</tipo>
+              <cabeceira>Arma el Rompezabezas </cabeceira>
+              <imaxe>Discurso_del_Rey_Benjamin.jpg</imaxe>
+              <filas>2</filas>
+              <columnas>6</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="11" >
+              <tipo>35</tipo>
+              <cabeceira>Ordena las historias por Orden Cronológico </cabeceira>
+              <forma>0</forma>
+              <completa>Rey_Noe.jpg</completa>
+              <completa>Aguas_de_Mormon.JPG</completa>
+              <completa>Alma_y_Amulek.JPG</completa>
+              <completa>Samuel.jpg</completa>
+              <completa>Mormon.jpg</completa>
+        </paxina>
+    </libro>
+</lim>
